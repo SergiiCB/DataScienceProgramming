@@ -1,4 +1,4 @@
-# Programació per a la ciència de dades - PAC4
+# Programació per a la ciència de dades
 
 Aquest paquet conté la solució a PAC4.
 
