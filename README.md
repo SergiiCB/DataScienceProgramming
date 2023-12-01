@@ -1,7 +1,5 @@
 # Programació per a la ciència de dades
 
-Aquest paquet conté la solució a PAC4.
-
 El paquet es divideix en 2 carpetes principals i un fitxer:
 
 - `src` Conté tots els exercicis amb els seus corresponents codis.
